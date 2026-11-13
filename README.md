@@ -26,6 +26,23 @@ Open to IT infrastructure, network, systems and automation roles, on-site in Ira
 - Level 1 SOC Analyst, Firewall Cybersecurity Services: live SOC monitoring and incident analysis with Wazuh SIEM on AWS.
 - Networking & Telecom Intern, Nokia: IP networking, optical communication and telecom infrastructure.
 
+### Client projects
+
+IT infrastructure delivered through [Rawafid](https://rawafid.space):
+
+| Client | What was done |
+|---|---|
+| **Abwaab + Ameena HQ** | Full IT fitout of a four-floor headquarters with 300+ devices: network, CCTV, access control, VoIP and electrical |
+| **Al Majal Business Park** | Commercial building fitout: network, CCTV, structured cabling and access control; internet delivery inside the eight-floor multi-tenant building |
+| **Uber (Iraq office)** | Office network: switches, cabling and Wi-Fi |
+| **Careem Iraq** | Office network infrastructure and CCTV system installation |
+| **Ameena Warehouse** | Structured cabling and CCTV across the full warehouse |
+| **Abwaab Old Office** | Complete office network: switches, access points, patch panels and structured cabling |
+| **Abwaab Café office** | Temporary office during the move: CCTV plus full network and Wi-Fi |
+| **Ameena Old Office** | Structured cabling, full network setup and patch organisation |
+| **JP Law Group** | Secure, structured network for a law firm |
+| **Serviced offices, Baghdad** | Managed network and Wi-Fi across 15 rented workspace offices |
+
 ### AI & automation
 
 - **Internal business systems:** asset inventory, fault logging and automated monthly reports for management.
@@ -36,7 +53,7 @@ Open to IT infrastructure, network, systems and automation roles, on-site in Ira
 
 ### Business development
 
-- **IT services for corporate clients:** site surveys, proposals and quotations, vendor sourcing, handover documentation and maintenance contracts, for a client portfolio that includes Uber, Careem, Geely, Al Majal Business Park, Abwaab, Ameena, Plastic & Dream Clinic and JP Law Group.
+- **IT services for corporate clients:** site surveys, proposals and quotations, vendor sourcing, handover documentation and maintenance contracts for the client projects above.
 - **English Gate Academy:** led marketing and growth — monthly content plans across social channels, a workshop programme, B2B outreach to companies for staff English training, event and venue partnerships, and the academy's Google Business Profile and LinkedIn page.
 
 ### What I work with
