@@ -28,20 +28,28 @@ Open to IT infrastructure, network, systems and automation roles, on-site in Ira
 
 ### Client projects
 
-IT infrastructure delivered through [Rawafid](https://rawafid.space):
+Clients served through [Rawafid](https://rawafid.space), an IT services company in Iraq:
+
+<table>
+<tr><td align="center" width="120"><img src="assets/clients/uber.png" width="64" height="64" alt="Uber"><br><sub>Uber</sub></td><td align="center" width="120"><img src="assets/clients/careem.png" width="64" height="64" alt="Careem"><br><sub>Careem</sub></td><td align="center" width="120"><img src="assets/clients/geely.png" width="64" height="64" alt="Geely"><br><sub>Geely</sub></td><td align="center" width="120"><img src="assets/clients/abwaab.png" width="64" height="64" alt="Abwaab"><br><sub>Abwaab</sub></td><td align="center" width="120"><img src="assets/clients/ameena.png" width="64" height="64" alt="Ameena"><br><sub>Ameena</sub></td><td align="center" width="120"><img src="assets/clients/al-majal.png" width="64" height="64" alt="Al Majal Business Park"><br><sub>Al Majal Business Park</sub></td></tr>
+<tr><td align="center" width="120"><img src="assets/clients/jp-law-firm.png" width="64" height="64" alt="JP Law Group"><br><sub>JP Law Group</sub></td><td align="center" width="120"><img src="assets/clients/plastic-derma.png" width="64" height="64" alt="Plastic &amp; Derma Clinic"><br><sub>Plastic &amp; Derma Clinic</sub></td><td align="center" width="120"><img src="assets/clients/abs.png" width="64" height="64" alt="ABS"><br><sub>ABS</sub></td><td align="center" width="120"><img src="assets/clients/workspace.png" width="64" height="64" alt="Workspace"><br><sub>Workspace</sub></td><td align="center" width="120"><img src="assets/clients/english-gate.png" width="64" height="64" alt="English Gate"><br><sub>English Gate</sub></td><td align="center" width="120"><img src="assets/clients/padel.png" width="64" height="64" alt="Padel Club Baghdad"><br><sub>Padel Club Baghdad</sub></td></tr>
+</table>
+
+IT infrastructure delivered:
 
 | Client | What was done |
 |---|---|
-| **Abwaab + Ameena HQ** | Full IT fitout of a four-floor headquarters with 300+ devices: network, CCTV, access control, VoIP and electrical |
-| **Al Majal Business Park** | Commercial building fitout: network, CCTV, structured cabling and access control; internet delivery inside the eight-floor multi-tenant building |
-| **Uber (Iraq office)** | Office network: switches, cabling and Wi-Fi |
-| **Careem Iraq** | Office network infrastructure and CCTV system installation |
-| **Ameena Warehouse** | Structured cabling and CCTV across the full warehouse |
-| **Abwaab Old Office** | Complete office network: switches, access points, patch panels and structured cabling |
-| **Abwaab Café office** | Temporary office during the move: CCTV plus full network and Wi-Fi |
-| **Ameena Old Office** | Structured cabling, full network setup and patch organisation |
-| **JP Law Group** | Secure, structured network for a law firm |
-| **Serviced offices, Baghdad** | Managed network and Wi-Fi across 15 rented workspace offices |
+| <img src="assets/clients/abwaab.png" width="22" height="22" alt="Abwaab" align="center"> <img src="assets/clients/ameena.png" width="22" height="22" alt="Ameena" align="center"> **Abwaab + Ameena HQ** | Full IT fitout of a four-floor headquarters with 300+ devices: network, CCTV, access control, VoIP and electrical |
+| <img src="assets/clients/al-majal.png" width="22" height="22" alt="Al Majal" align="center"> **Al Majal Business Park** | Commercial building fitout: network, CCTV, structured cabling and access control; internet delivery inside the eight-floor multi-tenant building |
+| <img src="assets/clients/geely.png" width="22" height="22" alt="Geely" align="center"> **Geely (Al Majal office)** | Network and Wi-Fi for the Geely office at Al Majal Business Park, on the building network |
+| <img src="assets/clients/uber.png" width="22" height="22" alt="Uber" align="center"> **Uber (Iraq office)** | Office network: switches, cabling and Wi-Fi |
+| <img src="assets/clients/careem.png" width="22" height="22" alt="Careem" align="center"> **Careem Iraq** | Office network infrastructure and CCTV system installation |
+| <img src="assets/clients/ameena.png" width="22" height="22" alt="Ameena" align="center"> **Ameena Warehouse** | Structured cabling and CCTV across the full warehouse |
+| <img src="assets/clients/abwaab.png" width="22" height="22" alt="Abwaab" align="center"> **Abwaab Old Office** | Complete office network: switches, access points, patch panels and structured cabling |
+| <img src="assets/clients/abwaab.png" width="22" height="22" alt="Abwaab" align="center"> **Abwaab Café office** | Temporary office during the move: CCTV plus full network and Wi-Fi |
+| <img src="assets/clients/ameena.png" width="22" height="22" alt="Ameena" align="center"> **Ameena Old Office** | Structured cabling, full network setup and patch organisation |
+| <img src="assets/clients/jp-law-firm.png" width="22" height="22" alt="JP Law Group" align="center"> **JP Law Group** | Secure, structured network for a law firm |
+| <img src="assets/clients/workspace.png" width="22" height="22" alt="Workspace" align="center"> **Workspace serviced offices, Baghdad** | Managed network and Wi-Fi across 15 rented workspace offices |
 
 ### AI & automation
 
