@@ -91,7 +91,7 @@ IT infrastructure delivered:
 
 ### Live client work
 
-- **[English Gate Academy](https://englishgate-school.com)** — bilingual (Arabic/English) website for an English academy in Baghdad, part of a wider platform with a staff system (CENTER) and a phone-first app for families, students and teachers (APP) on Supabase with Row-Level Security
+- **[English Gate Academy](https://englishgate-school.com)** — bilingual (Arabic/English) website for an English academy in Baghdad, part of a wider platform with a staff system (CENTER) and a phone-first app for families, students and teachers (APP) on Supabase with Row-Level Security · [code](https://github.com/yousif4business-collab/englishgate-website)
 - **[Rawafid](https://rawafid.space)** — website for an IT services company in Iraq: network infrastructure, CCTV, AI and automation, and software
 - **[Lavender](https://lavender-dbd.netlify.app)** — Arabic store for natural hair and skin-care products, ordering through WhatsApp
 
