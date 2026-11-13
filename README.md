@@ -1,28 +1,56 @@
 # Yousif Abdulkareem Al-Sara
 
-**Computer Engineer · IT Infrastructure & Networking** · Baghdad, Iraq
+**IT Engineer · Network & Infrastructure · AI & Automation** · Baghdad, Iraq
 
-I plan, cable, configure and support business networks (switching, VLANs, Wi-Fi, CCTV and access control), and I build web tools for real businesses when off-the-shelf software doesn't fit.
+I design, build and run business IT (networks, firewalls, CCTV and access control, cloud and email), and I build AI-driven systems and automation that replace manual work.
 
-Open to IT infrastructure, network and systems roles, on-site in Iraq or remote.
+Open to IT infrastructure, network, systems and automation roles, on-site in Iraq or remote.
 
 ---
 
-### Background
+### Experience
 
-- **B.Sc. Computer Engineering**, Al-Nahrain University, 2025
-- **IT Engineer**, Sama Babil Pharmaceutical Industry (Sumer Holding Group), Apr 2026 – Oct 2026
-- **Certification:** Java (2022)
+**IT Engineer** · Sama Babil Pharmaceutical Industry (Sumer Holding Group) · Apr 2026 – Oct 2026
+- Ran the IT estate of an eight-floor headquarters and the group's manufacturing sites in Babil: core routing, switching, wireless, FortiGate firewalls, CCTV, access control and IP telephony.
+- Migrated the group's corporate email to Google Workspace: phased mailbox migration, MX cutover and 2FA enforcement.
+- Connected the Baghdad headquarters to the Babil factory sites, and led the move from metered bandwidth to a cheaper, higher-capacity fiber line.
+- Built internal systems for asset inventory and fault logging, and automated the monthly reporting to Finance and management.
+
+**IT Infrastructure & Support Specialist** · Abwaab & Ameena · 2025 – 2026
+- Sole IT specialist for 300+ employees across a corporate headquarters, satellite offices and a warehouse.
+- Built the headquarters from an empty building: structured cabling, per-floor racks, switching and Wi-Fi on every floor, building-wide IP CCTV, fingerprint access control, network printing and 300+ PCs.
+- Designed the distribution of 20 fiber business internet lines across the whole estate.
+- Built the warehouse and office networks from scratch, planned office moves so everything was live before staff arrived, created the companies' first IT documentation and asset records, and ran daily Level 1 / Level 2 support.
+
+**Internships** · 2024
+- Level 1 SOC Analyst, Firewall Cybersecurity Services: live SOC monitoring and incident analysis with Wazuh SIEM on AWS.
+- Networking & Telecom Intern, Nokia: IP networking, optical communication and telecom infrastructure.
+
+### AI & automation
+
+- **Internal business systems:** asset inventory, fault logging and automated monthly reports for management.
+- **Messaging-bot automation:** a Telegram bot for an education platform that posts class messages, runs attendance roll-call, alerts families about absences and escalates to supervisors.
+- **Scheduled back-office automation:** nightly subscription-expiry scans, daily delivery lists and a morning digest to the staff group for a meal-subscription business.
+- **AI assistants:** a rate-limited AI assistant that answers visitor questions on a venue website (Cloudflare Workers AI).
+- **Lead-generation automation:** finds organisations with published business contacts, prepares personalised outreach emails and tracks every lead in a shared sheet.
+
+### Business development
+
+- **IT services for corporate clients:** site surveys, proposals and quotations, vendor sourcing, handover documentation and maintenance contracts, for a client portfolio that includes Uber, Careem, Geely, Al Majal Business Park, Abwaab, Ameena, Plastic & Dream Clinic and JP Law Group.
+- **English Gate Academy:** led marketing and growth — monthly content plans across social channels, a workshop programme, B2B outreach to companies for staff English training, event and venue partnerships, and the academy's Google Business Profile and LinkedIn page.
 
 ### What I work with
 
 | Area | Technologies |
 |---|---|
-| Networking | Routing and switching, VLANs, Wi-Fi, structured cabling, RADIUS / 802.1X |
-| Network and security vendors | MikroTik, Cisco, Ubiquiti UniFi, TP-Link, Huawei, Fortinet |
-| CCTV and access control | Hikvision, Dahua, ZKTeco |
+| Networking | Routing and switching, VLANs, Wi-Fi, structured cabling, fiber, RADIUS / 802.1X |
+| Network and security vendors | MikroTik, Cisco, Ubiquiti UniFi, TP-Link, Huawei, Fortinet FortiGate |
+| Security | Firewall policy and segmentation, SOC operations, Wazuh SIEM, MFA / 2FA |
+| CCTV and access control | Hikvision, Dahua, ZKTeco, fingerprint and face-recognition attendance |
+| Systems and cloud | Windows, Active Directory, Microsoft 365, Google Workspace, AWS, Azure, Google Cloud |
 | Servers and storage | Synology NAS, Linux (Ubuntu), Docker |
-| Cloud and hosting | Cloudflare (DNS, Pages, Workers), Hostinger, Netlify, business email and domains |
+| Voice | IP-PBX telephony, SIP extensions, IP phones |
+| AI and automation | Messaging bots, scheduled workflows, AI assistants, Supabase Edge Functions, Cloudflare Workers AI |
 | Web development | TypeScript, React, Next.js, Vite, Tailwind CSS, Supabase, Prisma |
 
 ### Featured projects
@@ -43,6 +71,12 @@ Open to IT infrastructure, network and systems roles, on-site in Iraq or remote.
 
 - **Padel court booking platform** — Arabic booking wizard, admin dashboard, ZainCash and FIB payment webhooks (Next.js, Prisma, MongoDB)
 
+### Education
+
+- **B.Sc. Computer Engineering**, Al-Nahrain University, 2025 — graduation project: Smart CNC Plotter (Arduino)
+- **Certification:** Java Programming (2022)
+- **Languages:** Arabic (native), English (professional working proficiency)
+
 ### Contact
 
-yousifabdulkareem4business@gmail.com
+[yousifabdulkareem4business@gmail.com](mailto:yousifabdulkareem4business@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yousif-abdulkareem-al-sara-4220b1189)
