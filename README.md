@@ -19,9 +19,9 @@ Open to IT infrastructure, network, systems and automation roles, on-site in Ira
 - Built internal systems for asset inventory and fault logging, and automated the monthly reporting to Finance and management.
 
 **IT Infrastructure & Support Specialist** · Abwaab & Ameena · 2025 – 2026
-- Sole IT specialist for 300+ employees across a corporate headquarters, satellite offices and a warehouse.
+- Sole IT specialist for 500+ employees across a corporate headquarters, satellite offices and a warehouse.
 - Built the headquarters from an empty building: structured cabling, per-floor racks, switching and Wi-Fi on every floor, building-wide IP CCTV, fingerprint access control, network printing and 300+ PCs.
-- Designed the distribution of 20 fiber business internet lines across the whole estate.
+- Designed the distribution of 22 fiber business internet lines across the whole estate.
 - Built the warehouse and office networks from scratch, planned office moves so everything was live before staff arrived, created the companies' first IT documentation and asset records, and ran daily Level 1 / Level 2 support.
 
 **Internships** · 2024
@@ -86,7 +86,7 @@ IT infrastructure delivered:
 |---|---|---|
 | [lowcarb-site](https://github.com/yousif4business-collab/lowcarb-site) · [live](https://lowcarb-site.pages.dev) | Meal-subscription platform for a Baghdad kitchen: public marketing site, plus a customer app and a staff order-management system on the same backend, with Row-Level Security, scheduled automation and a CI pipeline gated by 92 end-to-end tests | React, Vite, Supabase, Cloudflare Pages, GitHub Actions, Playwright |
 | [workspace-cafe](https://github.com/yousif4business-collab/workspace-cafe) · [live](https://workspace-cafe.pages.dev) | Bilingual (Arabic/English) site for a Baghdad café, rooftop padel club and business suites: menu and cart, court and meeting-room booking, padel shop with WhatsApp ordering, rate-limited AI assistant | React 19, TypeScript, Vite, Cloudflare Pages, Workers AI |
-| [smart-cnc-plotter](https://github.com/yousif4business-collab/smart-cnc-plotter) | Graduation project: low-cost 3-axis CNC that engraves and carves wood, plastic and cardboard, built for under 240,000 IQD with Arduino electronics and 3D-printed parts | Arduino UNO, CNC Shield V3, A4988, NEMA 17, CamBam, UGS |
+| [smart-cnc-plotter](https://github.com/yousif4business-collab/smart-cnc-plotter) | Graduation project: cost-effective 3-axis CNC that engraves and carves wood, plastic and cardboard with Arduino electronics and 3D-printed parts | Arduino UNO, CNC Shield V3, A4988, NEMA 17, CamBam, UGS |
 | [aklaat-albaraka](https://github.com/yousif4business-collab/aklaat-albaraka) | One-file ordering site for a home-style Iraqi kitchen: menu, cart with delivery fees by area, WhatsApp ordering with order numbers and GPS location sharing | HTML, CSS, JavaScript |
 
 ### Live client work
@@ -102,7 +102,7 @@ IT infrastructure delivered:
 ### Education
 
 - **B.Sc. Computer Engineering**, Al-Nahrain University, 2025 — graduation project: [Smart CNC Plotter](https://github.com/yousif4business-collab/smart-cnc-plotter) (Arduino)
-- **Certification:** Java Programming (2022)
+- **Certifications:** Cybersecurity Intern, Level 1 SOC Analyst, Firewall Cybersecurity Services (2024); Java Programming (2022)
 - **Languages:** Arabic (native), English (professional working proficiency)
 
 ### Contact
