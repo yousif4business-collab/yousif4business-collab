@@ -107,4 +107,4 @@ IT infrastructure delivered:
 
 ### Contact
 
-[yousifabdulkareem4business@gmail.com](mailto:yousifabdulkareem4business@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yousif-abdulkareem-al-sara-4220b1189) · [Portfolio](https://yousif4business-collab.github.io)
+[yousifabdulkareem4business@gmail.com](mailto:yousifabdulkareem4business@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yousif-abdulkareem-al-sara-4220b1189) · [Portfolio](https://yousif4business-collab.github.io) · [CV (PDF)](https://yousif4business-collab.github.io/cv/Yousif_Abdulkareem_Al-Sara_CV.pdf)
